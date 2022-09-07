@@ -6,6 +6,5 @@ docopt = "*"
 requests = "*"
 python-dateutil = "*"
 aiohttp = "*"
-plyvel = "*"
 
 [dev-packages]
