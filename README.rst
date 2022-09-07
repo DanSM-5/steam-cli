@@ -4,6 +4,9 @@ steam-cli: better command-line interface for Steam
 Python script that allows you to interact with steam directly from the command
 line, in a better way than using steamcmd.
 
+This is a fork of the original [steam-cli](https://github.com/berenm/steam-cli) that changes
+the dependency on ``plyvel`` to the cross platform ``plyvel-wheels`` for windows and mac.
+
 INSTALLATION
 --------------------------------------------------------------------------------
 
